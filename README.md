@@ -8,7 +8,7 @@
 The goal is to make predictions about people whon have strokes based on the data provided.
 
 ### Data:
-healthcare-dataset-stroke-data.csv                             https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset 
+healthcare-dataset-stroke-data.csv | https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset 
 
 ### Methods:
 
