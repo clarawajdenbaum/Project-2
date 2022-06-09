@@ -9,6 +9,7 @@ The goal is to make predictions about people whon have strokes based on the data
 
 ### Data:
 healthcare-dataset-stroke-data.csv
+https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset 
 
 ### Methods:
 
@@ -23,7 +24,7 @@ I scaled the integer and float columns and I have OneHotEncode the object column
 
 **Histogram**
 
-![Histogram](https://user-images.githubusercontent.com/101348370/170680192-2dbac94b-d075-434f-82d1-9e3f13eb6f1c.png)
+![Histogram](https://user-images.githubusercontent.com/101348370/172846965-4c929056-d857-4d78-b9e1-b1a80b94c871.png)
 
 ### Modeling Results:
 
